@@ -1,0 +1,56 @@
+{
+  "name": "cordova-plugin-local-applaudnotification",
+  "version": "0.0.1",
+  "description": "Moodle's fork of Cordova Local Notifications Plugin",
+  "cordova": {
+    "id": "cordova-plugin-local-applaudnotification",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Applaud-devpack/cordova-plugin-local-notification.git"
+  },
+  "keywords": [
+    "appplant",
+    "notification",
+    "local notification",
+    "user notification",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows",
+    "applaud"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=6.0.0"
+    },
+    {
+      "name": "cordova-windows",
+      "version": ">=4.2.0"
+    },
+    {
+      "name": "android-sdk",
+      "version": ">=26"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=10.0.0"
+    }
+  ],
+  "author": "Sebastián Katzer",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Applaud-devpack/cordova-plugin-local-notification/issues"
+  },
+  "homepage": "https://github.com/Applaud-devpack/cordova-plugin-local-notification#readme"
+}
